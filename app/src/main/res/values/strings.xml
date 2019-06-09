@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AoeDaggerApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //Màn hình đăng nhập và register
+    <string name="email">Email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="fullname">Họ và tên</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="forget_password">Quên mật khẩu?</string>
+    <string name="register">Đăng kí</string>
+    <string name="password_repeat">Nhập lại mật khẩu</string>
+    <string name="btn_confirm">Xác nhận</string>
+    <string name="btn_cancel">Hủy</string>
+
+
+</resources>
